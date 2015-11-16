@@ -1,0 +1,13 @@
+@font-face {
+  font: {
+    family: devicon;
+    weight: 400;
+    style: normal;
+  }
+
+  src: url("#{$devicon-path}/devicon.eot");
+  src: url("#{$devicon-path}/devicon.eot#iefix") format("embedded-opentype"),
+       url("#{$devicon-path}/devicon.woff2") format("woff2"),
+       url("#{$devicon-path}/devicon.woff") format("woff"),
+       url("#{$devicon-path}/devicon.ttf") format("truetype");
+}

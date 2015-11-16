@@ -1,0 +1,18 @@
+{
+  "name": "devicon",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Bower package for the devicon web font",
+  "author": {
+    "name": "Kyle Anderson",
+    "email": "kyle@divspace.com",
+    "url": "https://github.com/divspace/devicon"
+  },
+  "private": true,
+  "dependencies": {
+    "laravel-elixir": "^3.4.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}

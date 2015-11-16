@@ -1,0 +1,25 @@
+{
+  "name": "devicon",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/divspace/devicon",
+  "description": "Bower package for the devicon web font",
+  "authors": [
+    "Kyle Anderson <kyle@divspace.com>"
+  ],
+  "keywords": [
+    "font",
+    "fonts",
+    "icons",
+    "glyph",
+    "devicon"
+  ],
+  "main": [
+    "scss/devicon.scss",
+    "css/devicon.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
