@@ -3,7 +3,7 @@
   font-weight: 400;
   font-style: normal;
   src: url("../fonts/devicon/devicon.eot");
-  src: url("../fonts/devicon/devicon.eot#iefix") format("embedded-opentype"), url("../fonts/devicon/devicon.woff2") format("woff2"), url("../fonts/devicon/devicon.woff") format("woff"), url("../fonts/devicon/devicon.ttf") format("truetype"), url("../fonts/devicon/devicon.svg#devicon") format("svg"); }
+  src: url("../fonts/devicon/devicon.eot#iefix") format("embedded-opentype"), url("../fonts/devicon/devicon.woff2") format("woff2"), url("../fonts/devicon/devicon.woff") format("woff"), url("../fonts/devicon/devicon.ttf") format("truetype"); }
 
 [class^="devicon-"], [class*=" devicon-"] {
   font-family: devicon;
